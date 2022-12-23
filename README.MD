@@ -1,4 +1,4 @@
-##Full Cycle - Desafio 01 - Docker/Golang
+## Full Cycle - Desafio 01 - Docker/Golang
 Este projeto é o primeiro desafio de docker do custo Full cycle, o objetivo é buildar uma imagem que ao ser executada retorno a frase ``Full Cycle Rocks!!``. Além disso essa imagem deve ter até 2MB.
 
 ----
